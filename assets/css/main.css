@@ -241,7 +241,7 @@ h1,
 
 .odd h1,
 .odd .slide-content .title {
-    color: var(--white-color);
+    color: #000000;
 }
 
 h1 em,
